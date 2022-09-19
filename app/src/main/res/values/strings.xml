@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Kids Drawing App</string>
+    <string name="undo_image">Undo Image</string>
+    <string name="save_image">Save Image</string>
+    <string name="brush_image">Brush Image</string>
+    <string name="pink_color">Pink color</string>
+    <string name="white_color">White color</string>
+    <string name="purple_color">Purple color</string>
+    <string name="blue_color">Blue color</string>
+    <string name="yellow_color">Yellow color</string>
+    <string name="black_color">Black color</string>
+    <string name="red_color">Red color</string>
+    <string name="green_color">Green color</string>
+    <string name="darkblue_color">Blue color</string>
+    <string name="gallery_image">Gallery Image</string>
+    <string name="here_we_show_the_background_image">Here we show the Background Image</string>
+    <string name="please_wait">Please Wait...</string>
 </resources>
